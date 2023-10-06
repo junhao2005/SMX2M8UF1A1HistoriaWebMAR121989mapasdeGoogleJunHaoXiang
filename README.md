@@ -7,7 +7,7 @@ Al principio, solo podía ser utilizado por usuarios de [Internet Explorer](http
 ## 📍 ¿Para qué sirve?
 Google Maps es una herramienta multi uso que se utiliza para navegar, explorar, planificar viajes, buscar lugares y obtener información geográfica y de ubicación en tiempo real. Es una aplicación esencial para muchas personas en su vida diaria y viajes.
 
-<img src="<img src=" alt="Logo" width="300" height="200" />" alt="Logo" width="300" height="200" />
+<img src="https://github.com/junhao2005/SMX2M8UF1A1HistoriaWebMAR121989mapasdeGoogleJunHaoXiang/blob/main/image.png" alt="Logo" width="300" height="200" />
 
 
 
