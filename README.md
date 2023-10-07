@@ -9,7 +9,7 @@
 
 ![Oficina Google](https://github.com/junhao2005/SMX2M8UF1A1HistoriaWebMAR121989mapasdeGoogleJunHaoXiang/blob/main/shutterstock_552493561.jpg)
 ## 📍 ¿Para qué sirve?
-**Google Maps** es una herramienta multi uso que se utiliza para navegar, explorar, planificar viajes, buscar lugares y obtener información geográfica y de ubicación en tiempo real. Es una aplicación esencial para muchas personas en su vida diaria y viajes.
+**Google Maps** es una herramienta multi uso que se utiliza para _navegar, explorar, planificar viajes, buscar lugares y obtener información geográfica y de ubicación en tiempo real_. Es una aplicación esencial para muchas personas en su vida diaria y viajes.
 
 ![escritorio google maps](image-2.png)
 
