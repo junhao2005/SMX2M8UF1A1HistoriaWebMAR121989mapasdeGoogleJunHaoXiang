@@ -11,7 +11,7 @@
 ## 📍 ¿Para qué sirve?
 **Google Maps** es una herramienta multi uso que se utiliza para navegar, explorar, planificar viajes, buscar lugares y obtener información geográfica y de ubicación en tiempo real. Es una aplicación esencial para muchas personas en su vida diaria y viajes.
 
-<img src="https://github.com/junhao2005/SMX2M8UF1A1HistoriaWebMAR121989mapasdeGoogleJunHaoXiang/blob/main/image.png" alt="Logo" width="300" height="200" />
+<img src="Captura de pantalla 2023-10-07 133156.png" alt="Logo" width="400" height="400" />
 
 
 
